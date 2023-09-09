@@ -1,5 +1,5 @@
 # Astro 3.0 Firebase template 
-A basic to get you started firebase, 
+A very basic template to get you started Firebase Auth and Astro, 
 This is a fork of https://github.com/kevinzunigacuellar/astro-firebase-template
 I just fixed breaking changes that were in 3.0
 
